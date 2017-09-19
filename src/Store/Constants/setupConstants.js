@@ -1,0 +1,2 @@
+export const INIT_VALUE = "INIT_VALUE";
+export const UPDATE_SETUP_VALUE = "UPDATE_SETUP_VALUE";
