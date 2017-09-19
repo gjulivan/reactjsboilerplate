@@ -5,9 +5,9 @@ const initialState = fromJS({
   loading: false,
   error: false,
   messages: [],
-  firstName : `Grand`,
-  lastName : `Julivan`,
-  email : `grandjulivan@gmail.com`,
+  firstName : ``,
+  lastName : ``,
+  email : ``,
   bankAccounts : []
 });
 
